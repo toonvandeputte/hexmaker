@@ -1,4 +1,9 @@
-A simple script to generate svg hex maps to adapt or overlay.
+A simple script to generate svg hex maps to adapt or overlay over your existing maps.
+
+The cells in the map are numbered with [column].[row] labels.
+
+The generated hex maps are stored in the `output` directory.
+
 The script requires Python 3 (I only tested it in 3.7)
 
 ## How to run
